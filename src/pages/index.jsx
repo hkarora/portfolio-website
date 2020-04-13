@@ -70,7 +70,7 @@ const Index = () => (
       <Projects offset={1}>
         <Title>Projects</Title>
         <ProjectsWrapper>
-          <ProjectCard title="Portfolio Website" link="https://github.com/" bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)">
+          <ProjectCard title="Portfolio Website" link="https://github.com/hkarora/portfolio-website" bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)">
             My Portfolio website developed using GatsbyJs, where you are probably reading this right now.
           </ProjectCard>
 
@@ -92,7 +92,7 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:harshit13203@gmail.com">Hi</a> or find me on other platforms:{' '}
-            <a href="https://t.me/harshitarora">Telegram</a> ,<a href="https://www.instagram.com/0xharshit/">Instagram</a>{' '}
+            <a href="https://t.me/harshitarora"> Telegram</a> , <a href="https://www.instagram.com/0xharshit/">Instagram</a>{' '}
           </ContactText>
         </Inner>
         <Footer>
