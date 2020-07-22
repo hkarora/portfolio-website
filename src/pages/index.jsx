@@ -64,7 +64,7 @@ const Index = () => (
           Hey, <br /> I'm Harshit Arora.
         </BigTitle>
         <Subtitle>
-        A young passionate <b>Designer</b> with love for Open-Source and <b>Web development</b>.
+        A young passionate <b>NOOB</b> with love for Open-Source and <b>Web development</b>.
         </Subtitle>
       </Hero>
       <Projects offset={1}>
